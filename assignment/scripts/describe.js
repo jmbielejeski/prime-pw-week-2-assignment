@@ -27,7 +27,7 @@ if (number >= 2) {
 // create a variable called name and assign it to 'dane'
 // creat a condition that checks if name equals 'Mary'
 // if it does equal Mary console.log 'Hi, Mary!'
-//otherwise console.log 'How do you do'
+//otherwise console.log 'How do you do?'
 
 //CODE
 /*
@@ -160,7 +160,7 @@ if (temp > 39 || time >= 4) {
 */
 
 //6. We start with two variables -- age is set to 21 and minAge is set to 21.
-// We check if age is less than minAge 
+// We check if age is less than minAge
 // -- they are not, so we console.log 'enter'.
 
 /*

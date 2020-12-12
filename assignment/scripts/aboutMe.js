@@ -26,7 +26,7 @@ let friendsPets = 1;
 pets = pets + 2;
 // 12 - Create a constant variable called `allowedPets` and set it to a number value of your choice
 const allowedPets = 3;
-// 13 - Create a conditional: if adventurous is true, console log "Adventures are great!",
+// 13 - Create a conditional: if adventurous is true, console log "Adventures are great!".,
 // if it's not true, console log "How about we stay home?"
 if (adventurous === true) {
   console.log("Adventures are great!");
